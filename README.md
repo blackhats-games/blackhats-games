@@ -26,9 +26,6 @@ During Game Development I have to learn how to create a pretty trailer or teaser
 ![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
 
 -->
-Now, I'm working on my new project - [Forest's Nightmare](https://gamejolt.com/games/forest_nightmare/914621)
-
-![Blackhats Games Banner](Blackhats_Banner.png)
 
 
 
